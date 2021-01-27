@@ -1,0 +1,1 @@
+# ti10ko-theme-kde
