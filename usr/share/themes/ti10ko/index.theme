@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=ti10ko
+Comment=ti10ko Dark UI for Linux OSes
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=ti10ko dark
+MetacityTheme=ti10ko dark
+IconTheme=ti10ko dark
+CursorTheme=DMZ-White
+ButtonLayout=menu:minimize,maximize,close
